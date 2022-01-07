@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rollingdie/static/css/main.0d1c90ac.css",
+    "main.js": "/rollingdie/static/js/main.6076cc21.js",
+    "static/js/787.ea70334f.chunk.js": "/rollingdie/static/js/787.ea70334f.chunk.js",
+    "static/media/logo.svg": "/rollingdie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rollingdie/index.html",
+    "main.0d1c90ac.css.map": "/rollingdie/static/css/main.0d1c90ac.css.map",
+    "main.6076cc21.js.map": "/rollingdie/static/js/main.6076cc21.js.map",
+    "787.ea70334f.chunk.js.map": "/rollingdie/static/js/787.ea70334f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d1c90ac.css",
+    "static/js/main.6076cc21.js"
+  ]
+}
